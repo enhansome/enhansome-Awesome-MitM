@@ -1,139 +1,76 @@
 {
   "items": [
     {
-      "description": "A complete, modular, portable and easily extensible MITM framework",
-      "items": [],
-      "title": "bettercap"
-    },
-    {
-      "description": "CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.",
-      "items": [],
-      "title": "CopyCat"
-    },
-    {
-      "description": "DNSChef - DNS proxy for Penetration Testers and Malware Analysts",
-      "items": [],
-      "title": "dnschef"
-    },
-    {
-      "description": "A minimal DNS service that can provide spoofed replies",
-      "items": [],
-      "title": "dnsmitm"
-    },
-    {
-      "description": "Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.",
-      "items": [],
-      "title": "Ettercap"
-    },
-    {
-      "description": "A regular-expression based python MITM DNS server with support for DNS Rebinding attacks",
-      "items": [],
-      "title": "FakeDns"
-    },
-    {
-      "description": "HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation",
-      "items": [],
-      "title": "hyperfox"
-    },
-    {
-      "description": "An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway",
-      "items": [],
-      "title": "mallory"
-    },
-    {
-      "description": "Framework for Man-In-The-Middle attacks",
-      "items": [],
-      "title": "MITMf"
-    },
-    {
-      "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
-      "items": [],
-      "title": "mitmproxy"
-    },
-    {
-      "description": "HTTP Man In The Middle (MITM) Proxy written in node.js",
-      "items": [],
-      "title": "node-http-mitm-proxy"
-    },
-    {
-      "description": "Test whether your Postgres connections are vulnerable to MitM attacks",
-      "items": [],
-      "title": "postgres-mitm"
-    },
-    {
-      "description": "Probably one of the smallest SSL MITM proxies you can make",
-      "items": [],
-      "title": "tiny-mitm-proxy"
-    },
-    {
-      "description": "Perform a MitM attack and extract clear text credentials from RDP connections",
-      "items": [],
-      "title": "Seth"
-    },
-    {
-      "description": "SSH man-in-the-middle tool",
-      "items": [],
-      "title": "ssh-mitm"
-    },
-    {
-      "description": "A tool for automated MITM attacks on SSL connections",
-      "items": [],
-      "title": "sslsniff"
-    },
-    {
-      "description": "All in one MITM tool .",
-      "items": [],
-      "title": "tornado"
-    },
-    {
-      "description": "WARC writing MITM HTTP/S proxy",
-      "items": [],
-      "title": "warcprox"
-    },
-    {
-      "description": "An advanced MITM framework",
-      "items": [],
-      "title": "websploit"
-    },
-    {
-      "description": "Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa",
-      "items": [],
-      "title": "wssip"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "A python program to create a fake AP and sniff data",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 71667562,
+            "language": "Python",
+            "last_commit": "2019-11-03T11:34:06Z",
+            "owner": "xdavidhu",
+            "repo": "mitmAP",
+            "stars": 1696
+          },
+          "title": "mitmAP"
+        },
+        {
+          "children": [],
+          "description": "An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 49959710,
+            "language": "Shell",
+            "last_commit": "2016-08-29T23:34:56Z",
+            "owner": "praetorian-inc",
+            "repo": "mitm-vm",
+            "stars": 204
+          },
+          "title": "mitm-vm"
+        },
+        {
+          "children": [],
+          "description": "High-interaction MitM SSH honeypot",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 50227929,
+            "language": "Go",
+            "last_commit": "2018-05-13T17:10:27Z",
+            "owner": "magisterquis",
+            "repo": "sshhipot",
+            "stars": 175
+          },
+          "title": "sshhipot"
+        },
+        {
+          "children": [],
+          "description": "IPV6 MITM attack tool",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 11375611,
+            "language": "Shell",
+            "last_commit": "2013-08-07T17:33:14Z",
+            "owner": "CiscoCXSecurity",
+            "repo": "suddensix",
+            "stars": 92
+          },
+          "title": "suddensix"
+        }
+      ],
       "title": "Others"
-    },
-    {
-      "description": "A python program to create a fake AP and sniff data",
-      "items": [],
-      "title": "mitmAP"
-    },
-    {
-      "description": "An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities",
-      "items": [],
-      "title": "mitm-vm"
-    },
-    {
-      "description": "High-interaction MitM SSH honeypot",
-      "items": [],
-      "title": "sshhipot"
-    },
-    {
-      "description": "IPV6 MITM attack tool",
-      "items": [],
-      "title": "suddensix"
-    },
-    {
-      "description": "Please have a look at contributing.md",
-      "items": [],
-      "title": "Contributions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:02:42.852Z",
+    "last_updated": "2026-08-19T12:07:20.414Z",
     "original_repository": "0xbadshah/Awesome-MitM",
+    "original_repository_id": 104966826,
     "original_repository_sha": "cb8c06d98f428db9565f62eb7ad547f34f388816",
     "enhanced_repository": "enhansome/enhansome-Awesome-MitM",
     "enhanced_repository_description": null,

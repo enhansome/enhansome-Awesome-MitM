@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,725 | 🐛 467 | 🌐 Python | 📅 2026-08-13
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,735 | 🐛 468 | 🌐 Python | 📅 2026-08-13
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -62,7 +62,7 @@ Perform a MitM attack and extract clear text credentials from RDP connections
 
 SSH man-in-the-middle tool
 
-### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 571 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
+### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 572 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
 
 A tool for automated MITM attacks on SSL connections
 
@@ -74,7 +74,7 @@ All in one MITM tool .
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 154 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 155 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
