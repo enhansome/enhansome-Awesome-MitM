@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,768 | 🐛 463 | 🌐 Python | 📅 2026-08-21
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,780 | 🐛 461 | 🌐 Python | 📅 2026-08-22
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
