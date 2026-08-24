@@ -5,6 +5,297 @@
       "items": [
         {
           "children": [],
+          "description": "A complete, modular, portable and easily extensible MITM framework",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 29429361,
+            "language": null,
+            "last_commit": "2018-02-27T19:08:13Z",
+            "owner": "evilsocket",
+            "repo": "bettercap",
+            "stars": 2490
+          },
+          "title": "bettercap"
+        },
+        {
+          "children": [],
+          "description": "CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 78173263,
+            "language": "JavaScript",
+            "last_commit": "2017-05-04T18:40:48Z",
+            "owner": "compewter",
+            "repo": "CopyCat",
+            "stars": 105
+          },
+          "title": "CopyCat"
+        },
+        {
+          "children": [],
+          "description": "DNSChef - DNS proxy for Penetration Testers and Malware Analysts",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 14908724,
+            "language": "Python",
+            "last_commit": "2024-08-16T17:28:15Z",
+            "owner": "iphelix",
+            "repo": "dnschef",
+            "stars": 1067
+          },
+          "title": "dnschef"
+        },
+        {
+          "children": [],
+          "description": "A minimal DNS service that can provide spoofed replies",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 84533385,
+            "language": "Python",
+            "last_commit": "2023-04-24T06:54:13Z",
+            "owner": "SySS-Research",
+            "repo": "dns-mitm",
+            "stars": 100
+          },
+          "title": "dnsmitm"
+        },
+        {
+          "children": [],
+          "description": "Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 5041133,
+            "language": "C",
+            "last_commit": "2026-05-26T10:13:31Z",
+            "owner": "Ettercap",
+            "repo": "ettercap",
+            "stars": 2783
+          },
+          "title": "Ettercap"
+        },
+        {
+          "children": [],
+          "description": "A regular-expression based python MITM DNS server with support for DNS Rebinding attacks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9838691,
+            "language": "Python",
+            "last_commit": "2021-08-27T23:06:11Z",
+            "owner": "Crypt0s",
+            "repo": "FakeDns",
+            "stars": 583
+          },
+          "title": "FakeDns"
+        },
+        {
+          "children": [],
+          "description": "HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 6544402,
+            "language": "Go",
+            "last_commit": "2023-10-17T13:22:14Z",
+            "owner": "malfunkt",
+            "repo": "hyperfox",
+            "stars": 1628
+          },
+          "title": "hyperfox"
+        },
+        {
+          "children": [],
+          "description": "An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 3392398,
+            "language": "Python",
+            "last_commit": "2022-06-16T11:57:35Z",
+            "owner": "intrepidusgroup",
+            "repo": "mallory",
+            "stars": 324
+          },
+          "title": "mallory"
+        },
+        {
+          "children": [],
+          "description": "Framework for Man-In-The-Middle attacks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 21567832,
+            "language": "Python",
+            "last_commit": "2018-08-28T15:44:25Z",
+            "owner": "byt3bl33d3r",
+            "repo": "MITMf",
+            "stars": 3644
+          },
+          "title": "MITMf"
+        },
+        {
+          "children": [],
+          "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 519832,
+            "language": "Python",
+            "last_commit": "2026-08-22T09:33:08Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44792
+          },
+          "title": "mitmproxy"
+        },
+        {
+          "children": [],
+          "description": "HTTP Man In The Middle (MITM) Proxy written in node.js",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7444137,
+            "language": "TypeScript",
+            "last_commit": "2024-07-13T21:10:58Z",
+            "owner": "joeferner",
+            "repo": "node-http-mitm-proxy",
+            "stars": 709
+          },
+          "title": "node-http-mitm-proxy"
+        },
+        {
+          "children": [],
+          "description": "Test whether your Postgres connections are vulnerable to MitM attacks",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 60016223,
+            "language": "Python",
+            "last_commit": "2023-12-19T13:58:42Z",
+            "owner": "thusoy",
+            "repo": "postgres-mitm",
+            "stars": 57
+          },
+          "title": "postgres-mitm"
+        },
+        {
+          "children": [],
+          "description": "Probably one of the smallest SSL MITM proxies you can make",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 41419351,
+            "language": "Shell",
+            "last_commit": "2015-08-26T10:32:06Z",
+            "owner": "floyd-fuh",
+            "repo": "tiny-mitm-proxy",
+            "stars": 182
+          },
+          "title": "tiny-mitm-proxy"
+        },
+        {
+          "children": [],
+          "description": "Perform a MitM attack and extract clear text credentials from RDP connections",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 84575372,
+            "language": "Python",
+            "last_commit": "2025-11-20T14:52:49Z",
+            "owner": "SySS-Research",
+            "repo": "Seth",
+            "stars": 1454
+          },
+          "title": "Seth"
+        },
+        {
+          "children": [],
+          "description": "SSH man-in-the-middle tool",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 91498656,
+            "language": "C",
+            "last_commit": "2021-07-02T02:17:26Z",
+            "owner": "jtesta",
+            "repo": "ssh-mitm",
+            "stars": 1740
+          },
+          "title": "ssh-mitm"
+        },
+        {
+          "children": [],
+          "description": "A tool for automated MITM attacks on SSL connections",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1654700,
+            "language": "C++",
+            "last_commit": "2017-12-17T19:04:09Z",
+            "owner": "moxie0",
+            "repo": "sslsniff",
+            "stars": 573
+          },
+          "title": "sslsniff"
+        },
+        {
+          "children": [],
+          "description": "WARC writing MITM HTTP/S proxy",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 13874432,
+            "language": "Python",
+            "last_commit": "2026-06-17T03:25:51Z",
+            "owner": "internetarchive",
+            "repo": "warcprox",
+            "stars": 462
+          },
+          "title": "warcprox"
+        },
+        {
+          "children": [],
+          "description": "An advanced MITM framework",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 484382622,
+            "language": null,
+            "last_commit": "2022-04-22T09:59:14Z",
+            "owner": "websploit",
+            "repo": "websploit",
+            "stars": 155
+          },
+          "title": "websploit"
+        },
+        {
+          "children": [],
+          "description": "Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 89730037,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:52:09Z",
+            "owner": "nccgroup",
+            "repo": "wssip",
+            "stars": 450
+          },
+          "title": "wssip"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
           "description": "A python program to create a fake AP and sniff data",
           "node_type": "item",
           "repo_info": {
@@ -68,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:01:06.252Z",
+    "last_updated": "2026-08-24T14:32:10.120Z",
     "original_repository": "0xbadshah/Awesome-MitM",
     "original_repository_id": 104966826,
     "original_repository_sha": "cb8c06d98f428db9565f62eb7ad547f34f388816",

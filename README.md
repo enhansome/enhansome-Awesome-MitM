@@ -10,7 +10,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,066 | 🐛 31 | 🌐 Python | 📅 2024-08-16
+### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,067 | 🐛 31 | 🌐 Python | 📅 2024-08-16
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,782 | 🐛 125 | 🌐 C | 📅 2026-05-26
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,783 | 🐛 125 | 🌐 C | 📅 2026-05-26
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,788 | 🐛 462 | 🌐 Python | 📅 2026-08-22
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,792 | 🐛 463 | 🌐 Python | 📅 2026-08-22
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -62,7 +62,7 @@ Perform a MitM attack and extract clear text credentials from RDP connections
 
 SSH man-in-the-middle tool
 
-### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 572 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
+### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 573 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
 
 A tool for automated MITM attacks on SSL connections
 
@@ -70,7 +70,7 @@ A tool for automated MITM attacks on SSL connections
 
 All in one MITM tool .
 
-### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 461 | 🐛 32 | 🌐 Python | 📅 2026-06-17
+### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 462 | 🐛 32 | 🌐 Python | 📅 2026-06-17
 
 WARC writing MITM HTTP/S proxy
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
