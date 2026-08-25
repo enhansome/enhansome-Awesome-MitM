@@ -74,7 +74,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2783
+            "stars": 2784
           },
           "title": "Ettercap"
         },
@@ -134,7 +134,7 @@
             "last_commit": "2018-08-28T15:44:25Z",
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3644
+            "stars": 3645
           },
           "title": "MITMf"
         },
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-22T09:33:08Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44798
+            "stars": 44806
           },
           "title": "mitmproxy"
         },
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:10.185Z",
+    "last_updated": "2026-08-25T21:08:28.344Z",
     "original_repository": "0xbadshah/Awesome-MitM",
     "original_repository_id": 104966826,
     "original_repository_sha": "cb8c06d98f428db9565f62eb7ad547f34f388816",
