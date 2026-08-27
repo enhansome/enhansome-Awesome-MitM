@@ -44,7 +44,7 @@
             "last_commit": "2024-08-16T17:28:15Z",
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1067
+            "stars": 1068
           },
           "title": "dnschef"
         },
@@ -146,10 +146,10 @@
             "archived": false,
             "id": 519832,
             "language": "Python",
-            "last_commit": "2026-08-22T09:33:08Z",
+            "last_commit": "2026-08-25T23:39:26Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44806
+            "stars": 44820
           },
           "title": "mitmproxy"
         },
@@ -254,7 +254,7 @@
             "last_commit": "2026-06-17T03:25:51Z",
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 462
+            "stars": 463
           },
           "title": "warcprox"
         },
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:08:28.344Z",
+    "last_updated": "2026-08-27T00:16:37.259Z",
     "original_repository": "0xbadshah/Awesome-MitM",
     "original_repository_id": 104966826,
     "original_repository_sha": "cb8c06d98f428db9565f62eb7ad547f34f388816",
