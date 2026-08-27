@@ -10,7 +10,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,068 | 🐛 31 | 🌐 Python | 📅 2024-08-16
+### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,069 | 🐛 31 | 🌐 Python | 📅 2024-08-16
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,820 | 🐛 463 | 🌐 Python | 📅 2026-08-25
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,824 | 🐛 463 | 🌐 Python | 📅 2026-08-25
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
