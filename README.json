@@ -16,7 +16,8 @@
             "repo": "bettercap",
             "stars": 2490
           },
-          "title": "bettercap"
+          "title": "bettercap",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "CopyCat",
             "stars": 105
           },
-          "title": "CopyCat"
+          "title": "CopyCat",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "dnschef",
             "stars": 1069
           },
-          "title": "dnschef"
+          "title": "dnschef",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "dns-mitm",
             "stars": 100
           },
-          "title": "dnsmitm"
+          "title": "dnsmitm",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -71,12 +75,13 @@
             "archived": false,
             "id": 5041133,
             "language": "C",
-            "last_commit": "2026-05-26T10:13:31Z",
+            "last_commit": "2026-08-28T02:17:47Z",
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2784
           },
-          "title": "Ettercap"
+          "title": "Ettercap",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "FakeDns",
             "stars": 583
           },
-          "title": "FakeDns"
+          "title": "FakeDns",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "hyperfox",
             "stars": 1628
           },
-          "title": "hyperfox"
+          "title": "hyperfox",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "mallory",
             "stars": 324
           },
-          "title": "mallory"
+          "title": "mallory",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "MITMf",
             "stars": 3645
           },
-          "title": "MITMf"
+          "title": "MITMf",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -149,9 +158,10 @@
             "last_commit": "2026-08-25T23:39:26Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44824
+            "stars": 44830
           },
-          "title": "mitmproxy"
+          "title": "mitmproxy",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "node-http-mitm-proxy",
             "stars": 709
           },
-          "title": "node-http-mitm-proxy"
+          "title": "node-http-mitm-proxy",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "postgres-mitm",
             "stars": 57
           },
-          "title": "postgres-mitm"
+          "title": "postgres-mitm",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -196,7 +208,8 @@
             "repo": "tiny-mitm-proxy",
             "stars": 182
           },
-          "title": "tiny-mitm-proxy"
+          "title": "tiny-mitm-proxy",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "Seth",
             "stars": 1454
           },
-          "title": "Seth"
+          "title": "Seth",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -226,7 +240,8 @@
             "repo": "ssh-mitm",
             "stars": 1740
           },
-          "title": "ssh-mitm"
+          "title": "ssh-mitm",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "sslsniff",
             "stars": 573
           },
-          "title": "sslsniff"
+          "title": "sslsniff",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -254,9 +270,10 @@
             "last_commit": "2026-06-17T03:25:51Z",
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 463
+            "stars": 464
           },
-          "title": "warcprox"
+          "title": "warcprox",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -269,9 +286,10 @@
             "last_commit": "2022-04-22T09:59:14Z",
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 155
+            "stars": 154
           },
-          "title": "websploit"
+          "title": "websploit",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -286,7 +304,8 @@
             "repo": "wssip",
             "stars": 450
           },
-          "title": "wssip"
+          "title": "wssip",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         }
       ],
       "title": "Overview"
@@ -307,7 +326,8 @@
             "repo": "mitmAP",
             "stars": 1695
           },
-          "title": "mitmAP"
+          "title": "mitmAP",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -322,7 +342,8 @@
             "repo": "mitm-vm",
             "stars": 204
           },
-          "title": "mitm-vm"
+          "title": "mitm-vm",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -337,7 +358,8 @@
             "repo": "sshhipot",
             "stars": 175
           },
-          "title": "sshhipot"
+          "title": "sshhipot",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         },
         {
           "children": [],
@@ -352,14 +374,15 @@
             "repo": "suddensix",
             "stars": 92
           },
-          "title": "suddensix"
+          "title": "suddensix",
+          "first_seen": "2026-08-28T04:31:47.355Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:09.933Z",
+    "last_updated": "2026-08-28T04:31:47.355Z",
     "original_repository_info": {
       "archived": false,
       "id": 104966826,
