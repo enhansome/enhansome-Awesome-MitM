@@ -9,12 +9,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap",
+            "homepage": "http://www.bettercap.org/",
             "id": 29429361,
             "language": null,
+            "license": null,
             "last_commit": "2018-02-27T19:08:13Z",
+            "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2490
+            "stars": 2490,
+            "topics": [
+              "bettercap",
+              "ettercap",
+              "man-in-the-middle",
+              "mitm",
+              "proxy",
+              "security",
+              "security-audit",
+              "spoofing",
+              "sslstrip",
+              "tls"
+            ]
           },
           "title": "bettercap",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -25,12 +41,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Universal MITM web server",
+            "homepage": null,
             "id": 78173263,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-04T18:40:48Z",
+            "open_issues": 1,
             "owner": "compewter",
             "repo": "CopyCat",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "man-in-the-middle",
+              "mitm",
+              "mitm-server",
+              "nodejs"
+            ]
           },
           "title": "CopyCat",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -41,12 +67,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "DNSChef - DNS proxy for Penetration Testers and Malware Analysts",
+            "homepage": null,
             "id": 14908724,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-16T17:28:15Z",
+            "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1070
+            "stars": 1070,
+            "topics": []
           },
           "title": "dnschef",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -57,12 +88,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A minimal DNS service that can provide spoofed replies",
+            "homepage": null,
             "id": 84533385,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-24T06:54:13Z",
+            "open_issues": 3,
             "owner": "SySS-Research",
             "repo": "dns-mitm",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "dns",
+              "mitm",
+              "security",
+              "tools"
+            ]
           },
           "title": "dnsmitm",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -73,12 +114,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Ettercap Project",
+            "homepage": "http://www.ettercap-project.org",
             "id": 5041133,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T02:17:47Z",
+            "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2784
+            "stars": 2784,
+            "topics": []
           },
           "title": "Ettercap",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -89,12 +135,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A regular-expression based python MITM DNS server with support for DNS Rebinding attacks",
+            "homepage": null,
             "id": 9838691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-27T23:06:11Z",
+            "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "title": "FakeDns",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -105,12 +156,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "HTTP/HTTPS MITM proxy and recorder. ",
+            "homepage": "https://hyperfox.org",
             "id": 6544402,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-17T13:22:14Z",
+            "open_issues": 17,
             "owner": "malfunkt",
             "repo": "hyperfox",
-            "stars": 1628
+            "stars": 1628,
+            "topics": []
           },
           "title": "hyperfox",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -121,12 +177,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Mallory - MiTM TCP and UDP Proxy",
+            "homepage": "http://intrepidusgroup.com/insight/mallory",
             "id": 3392398,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-16T11:57:35Z",
+            "open_issues": 2,
             "owner": "intrepidusgroup",
             "repo": "mallory",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "title": "mallory",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -137,12 +198,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Framework for Man-In-The-Middle attacks",
+            "homepage": null,
             "id": 21567832,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-08-28T15:44:25Z",
+            "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3645
+            "stars": 3645,
+            "topics": [
+              "framework",
+              "man-in-the-middle",
+              "mitm",
+              "python"
+            ]
           },
           "title": "MITMf",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -153,12 +224,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+            "homepage": "https://mitmproxy.org",
             "id": 519832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T23:39:26Z",
+            "open_issues": 464,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44840
+            "stars": 44842,
+            "topics": [
+              "debugging",
+              "http",
+              "http2",
+              "man-in-the-middle",
+              "mitmproxy",
+              "proxy",
+              "python",
+              "security",
+              "ssl",
+              "tls",
+              "websocket"
+            ]
           },
           "title": "mitmproxy",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -169,12 +257,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "HTTP Man In The Middle (MITM) Proxy",
+            "homepage": null,
             "id": 7444137,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-07-13T21:10:58Z",
+            "open_issues": 92,
             "owner": "joeferner",
             "repo": "node-http-mitm-proxy",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "title": "node-http-mitm-proxy",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -185,12 +278,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Test whether your Postgres connections are vulnerable to MitM attacks",
+            "homepage": null,
             "id": 60016223,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-19T13:58:42Z",
+            "open_issues": 3,
             "owner": "thusoy",
             "repo": "postgres-mitm",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "title": "postgres-mitm",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -201,12 +299,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Probably one of the smallest SSL MITM proxies you can make",
+            "homepage": null,
             "id": 41419351,
             "language": "Shell",
+            "license": null,
             "last_commit": "2015-08-26T10:32:06Z",
+            "open_issues": 0,
             "owner": "floyd-fuh",
             "repo": "tiny-mitm-proxy",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "title": "tiny-mitm-proxy",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -217,12 +320,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Perform a MitM attack and extract clear text credentials from RDP connections",
+            "homepage": null,
             "id": 84575372,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-20T14:52:49Z",
+            "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1454
+            "stars": 1454,
+            "topics": [
+              "arp-spoofing",
+              "mitm",
+              "proof-of-concept",
+              "rdp",
+              "security"
+            ]
           },
           "title": "Seth",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -233,12 +347,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "SSH man-in-the-middle tool",
+            "homepage": null,
             "id": 91498656,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-02T02:17:26Z",
+            "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1740
+            "stars": 1740,
+            "topics": [
+              "hacking",
+              "man-in-the-middle",
+              "man-in-the-middle-attack",
+              "mitm",
+              "penetration-testing",
+              "ssh"
+            ]
           },
           "title": "ssh-mitm",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -249,12 +375,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool for automated MITM attacks on SSL connections.",
+            "homepage": null,
             "id": 1654700,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-17T19:04:09Z",
+            "open_issues": 28,
             "owner": "moxie0",
             "repo": "sslsniff",
-            "stars": 573
+            "stars": 573,
+            "topics": []
           },
           "title": "sslsniff",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -265,12 +396,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "WARC writing MITM HTTP/S proxy",
+            "homepage": null,
             "id": 13874432,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-17T03:25:51Z",
+            "open_issues": 32,
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "title": "warcprox",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -281,12 +417,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Websploit is a high level MITM framework",
+            "homepage": null,
             "id": 484382622,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-22T09:59:14Z",
+            "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "title": "websploit",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -297,12 +438,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.",
+            "homepage": null,
             "id": 89730037,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-12-08T18:52:09Z",
+            "open_issues": 35,
             "owner": "nccgroup",
             "repo": "wssip",
-            "stars": 450
+            "stars": 450,
+            "topics": [
+              "mitm",
+              "nodejs",
+              "socket-io",
+              "websocket",
+              "websockets"
+            ]
           },
           "title": "wssip",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -319,12 +471,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "📡 A python program to create a fake AP and sniff data.",
+            "homepage": null,
             "id": 71667562,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-11-03T11:34:06Z",
+            "open_issues": 15,
             "owner": "xdavidhu",
             "repo": "mitmAP",
-            "stars": 1695
+            "stars": 1695,
+            "topics": [
+              "access-point",
+              "fake-ap",
+              "hacking",
+              "infosec",
+              "kali-linux",
+              "mitm",
+              "pentesting",
+              "python",
+              "wifi",
+              "wireless"
+            ]
           },
           "title": "mitmAP",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -335,12 +503,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities.",
+            "homepage": null,
             "id": 49959710,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-08-29T23:34:56Z",
+            "open_issues": 3,
             "owner": "praetorian-inc",
             "repo": "mitm-vm",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "title": "mitm-vm",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -351,12 +524,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "High-interaction MitM SSH honeypot",
+            "homepage": null,
             "id": 50227929,
             "language": "Go",
+            "license": "Zlib",
             "last_commit": "2018-05-13T17:10:27Z",
+            "open_issues": 5,
             "owner": "magisterquis",
             "repo": "sshhipot",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "title": "sshhipot",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -367,12 +545,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "IPV6 MITM attack tool",
+            "homepage": null,
             "id": 11375611,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2013-08-07T17:33:14Z",
+            "open_issues": 1,
             "owner": "CiscoCXSecurity",
             "repo": "suddensix",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "title": "suddensix",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -382,15 +565,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:14.996Z",
+    "last_updated": "2026-08-29T04:50:09.919Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated List of MitM frameworks on GitHub",
+      "homepage": null,
       "id": 104966826,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2017-10-01T11:13:45Z",
+      "open_issues": 0,
       "owner": "0xbadshah",
       "repo": "Awesome-MitM",
-      "stars": 257
+      "stars": 257,
+      "topics": [
+        "awesome-list",
+        "mitm",
+        "mitm-attacks",
+        "mitm-framework",
+        "ssh-mitm"
+      ]
     },
     "original_repository_sha": "cb8c06d98f428db9565f62eb7ad547f34f388816",
     "enhanced_repository": "enhansome/enhansome-Awesome-MitM",
