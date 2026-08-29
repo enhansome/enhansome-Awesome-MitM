@@ -46,7 +46,7 @@
             "last_commit": "2024-08-16T17:28:15Z",
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1069
+            "stars": 1070
           },
           "title": "dnschef",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-25T23:39:26Z",
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44830
+            "stars": 44840
           },
           "title": "mitmproxy",
           "first_seen": "2026-08-28T04:31:47.355Z"
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:31:47.355Z",
+    "last_updated": "2026-08-29T02:55:14.996Z",
     "original_repository_info": {
       "archived": false,
       "id": 104966826,
