@@ -123,7 +123,7 @@
             "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2784,
+            "stars": 2785,
             "topics": []
           },
           "title": "Ettercap",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-25T23:39:26Z",
-            "open_issues": 469,
+            "open_issues": 470,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44850,
+            "stars": 44857,
             "topics": [
               "debugging",
               "http",
@@ -480,7 +480,7 @@
             "open_issues": 15,
             "owner": "xdavidhu",
             "repo": "mitmAP",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "access-point",
               "fake-ap",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:48:42.462Z",
+    "last_updated": "2026-08-30T22:56:31.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
