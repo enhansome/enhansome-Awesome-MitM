@@ -119,8 +119,8 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T22:20:09Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-04T18:27:03Z",
+            "open_issues": 131,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2785,
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3645,
+            "stars": 3646,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -233,7 +233,7 @@
             "open_issues": 480,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44901,
+            "stars": 44914,
             "topics": [
               "debugging",
               "http",
@@ -447,7 +447,7 @@
             "open_issues": 35,
             "owner": "nccgroup",
             "repo": "wssip",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "mitm",
               "nodejs",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:50:13.548Z",
+    "last_updated": "2026-09-04T22:33:38.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",

@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,785 | 🐛 124 | 🌐 C | 📅 2026-09-03
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,785 | 🐛 131 | 🌐 C | 📅 2026-09-04
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,901 | 🐛 480 | 🌐 Python | 📅 2026-09-01
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,914 | 🐛 480 | 🌐 Python | 📅 2026-09-01
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -78,7 +78,7 @@ WARC writing MITM HTTP/S proxy
 
 An advanced MITM framework
 
-### [wssip](https://github.com/nccgroup/wssip) ⭐ 450 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-08
+### [wssip](https://github.com/nccgroup/wssip) ⭐ 451 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-08
 
 Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
