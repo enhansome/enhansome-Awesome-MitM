@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T22:07:06Z",
-            "open_issues": 480,
+            "open_issues": 481,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44924,
+            "stars": 44931,
             "topics": [
               "debugging",
               "http",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:20:39.001Z",
+    "last_updated": "2026-09-06T22:23:17.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
