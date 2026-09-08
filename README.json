@@ -119,11 +119,11 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T19:33:25Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-08T17:44:21Z",
+            "open_issues": 130,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2785,
+            "stars": 2784,
             "topics": []
           },
           "title": "Ettercap",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3647,
+            "stars": 3646,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -233,7 +233,7 @@
             "open_issues": 483,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44946,
+            "stars": 44962,
             "topics": [
               "debugging",
               "http",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "title": "warcprox",
@@ -554,7 +554,7 @@
             "open_issues": 1,
             "owner": "CiscoCXSecurity",
             "repo": "suddensix",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "title": "suddensix",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:00:52.685Z",
+    "last_updated": "2026-09-08T22:59:36.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
