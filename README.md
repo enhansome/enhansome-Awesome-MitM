@@ -18,15 +18,15 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,784 | 🐛 130 | 🌐 C | 📅 2026-09-08
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,785 | 🐛 130 | 🌐 C | 📅 2026-09-08
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
-### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 583 | 🐛 13 | 🌐 Python | 📅 2021-08-27
+### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 584 | 🐛 13 | 🌐 Python | 📅 2021-08-27
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 
-### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,628 | 🐛 17 | 🌐 Go | 📅 2023-10-17
+### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,629 | 🐛 17 | 🌐 Go | 📅 2023-10-17
 
 HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,962 | 🐛 483 | 🌐 Python | 📅 2026-09-01
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,978 | 🐛 486 | 🌐 Python | 📅 2026-09-01
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

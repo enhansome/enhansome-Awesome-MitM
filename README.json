@@ -123,7 +123,7 @@
             "open_issues": 130,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2784,
+            "stars": 2785,
             "topics": []
           },
           "title": "Ettercap",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 583,
+            "stars": 584,
             "topics": []
           },
           "title": "FakeDns",
@@ -165,7 +165,7 @@
             "open_issues": 17,
             "owner": "malfunkt",
             "repo": "hyperfox",
-            "stars": 1628,
+            "stars": 1629,
             "topics": []
           },
           "title": "hyperfox",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T22:07:06Z",
-            "open_issues": 483,
+            "open_issues": 486,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 44962,
+            "stars": 44978,
             "topics": [
               "debugging",
               "http",
@@ -480,7 +480,7 @@
             "open_issues": 15,
             "owner": "xdavidhu",
             "repo": "mitmAP",
-            "stars": 1694,
+            "stars": 1693,
             "topics": [
               "access-point",
               "fake-ap",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:59:36.433Z",
+    "last_updated": "2026-09-09T22:46:35.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
