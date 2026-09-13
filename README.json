@@ -123,7 +123,7 @@
             "open_issues": 128,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2786,
+            "stars": 2787,
             "topics": []
           },
           "title": "Ettercap",
@@ -233,7 +233,7 @@
             "open_issues": 490,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45025,
+            "stars": 45037,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:36:42.798Z",
+    "last_updated": "2026-09-13T22:39:11.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
