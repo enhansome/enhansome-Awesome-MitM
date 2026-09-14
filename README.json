@@ -233,7 +233,7 @@
             "open_issues": 490,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45037,
+            "stars": 45051,
             "topics": [
               "debugging",
               "http",
@@ -266,7 +266,7 @@
             "open_issues": 92,
             "owner": "joeferner",
             "repo": "node-http-mitm-proxy",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "title": "node-http-mitm-proxy",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:39:11.814Z",
+    "last_updated": "2026-09-14T23:31:05.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
