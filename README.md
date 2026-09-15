@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,051 | 🐛 490 | 🌐 Python | 📅 2026-09-10
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,063 | 🐛 490 | 🌐 Python | 📅 2026-09-10
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -70,11 +70,11 @@ A tool for automated MITM attacks on SSL connections
 
 All in one MITM tool .
 
-### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 466 | 🐛 31 | 🌐 Python | 📅 2026-06-17
+### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 467 | 🐛 31 | 🌐 Python | 📅 2026-06-17
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 157 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 158 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

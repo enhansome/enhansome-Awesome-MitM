@@ -233,7 +233,7 @@
             "open_issues": 490,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45051,
+            "stars": 45063,
             "topics": [
               "debugging",
               "http",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 466,
+            "stars": 467,
             "topics": []
           },
           "title": "warcprox",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:31:05.102Z",
+    "last_updated": "2026-09-15T23:11:52.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
