@@ -233,7 +233,7 @@
             "open_issues": 491,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45073,
+            "stars": 45077,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:16:21.987Z",
+    "last_updated": "2026-09-17T23:07:42.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
