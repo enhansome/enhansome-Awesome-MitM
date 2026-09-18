@@ -123,7 +123,7 @@
             "open_issues": 128,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2787,
+            "stars": 2788,
             "topics": []
           },
           "title": "Ettercap",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3646,
+            "stars": 3645,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-10T06:52:11Z",
-            "open_issues": 491,
+            "open_issues": 490,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45077,
+            "stars": 45088,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1455,
+            "stars": 1456,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:07:42.978Z",
+    "last_updated": "2026-09-18T22:50:24.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
