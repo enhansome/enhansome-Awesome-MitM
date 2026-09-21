@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3645,
+            "stars": 3644,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -233,7 +233,7 @@
             "open_issues": 492,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45103,
+            "stars": 45112,
             "topics": [
               "debugging",
               "http",
@@ -266,7 +266,7 @@
             "open_issues": 92,
             "owner": "joeferner",
             "repo": "node-http-mitm-proxy",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "title": "node-http-mitm-proxy",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1456,
+            "stars": 1457,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:43:02.649Z",
+    "last_updated": "2026-09-21T23:40:23.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
