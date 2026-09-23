@@ -38,11 +38,11 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,123 | 🐛 493 | 🌐 Python | 📅 2026-09-10
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,135 | 🐛 495 | 🌐 Python | 📅 2026-09-10
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
-### [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) ⭐ 711 | 🐛 92 | 🌐 TypeScript | 📅 2024-07-13
+### [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) ⭐ 712 | 🐛 92 | 🌐 TypeScript | 📅 2024-07-13
 
 HTTP Man In The Middle (MITM) Proxy written in node.js
 
@@ -74,7 +74,7 @@ All in one MITM tool .
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 160 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 159 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -92,7 +92,7 @@ A python program to create a fake AP and sniff data
 
 An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities
 
-### [sshhipot](https://github.com/magisterquis/sshhipot) ⭐ 175 | 🐛 5 | 🌐 Go | 📅 2018-05-13
+### [sshhipot](https://github.com/magisterquis/sshhipot) ⭐ 174 | 🐛 5 | 🌐 Go | 📅 2018-05-13
 
 High-interaction MitM SSH honeypot
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
