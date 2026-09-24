@@ -97,7 +97,7 @@
             "open_issues": 3,
             "owner": "SySS-Research",
             "repo": "dns-mitm",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "dns",
               "mitm",
@@ -123,7 +123,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2791,
+            "stars": 2788,
             "topics": []
           },
           "title": "Ettercap",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3642,
+            "stars": 3641,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-10T06:52:11Z",
-            "open_issues": 495,
+            "open_issues": 496,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45135,
+            "stars": 45144,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -356,7 +356,7 @@
             "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1739,
+            "stars": 1740,
             "topics": [
               "hacking",
               "man-in-the-middle",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:12:59.102Z",
+    "last_updated": "2026-09-24T23:31:04.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
