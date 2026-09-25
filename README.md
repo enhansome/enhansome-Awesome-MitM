@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,788 | 🐛 124 | 🌐 C | 📅 2026-09-20
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,791 | 🐛 124 | 🌐 C | 📅 2026-09-20
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -26,7 +26,7 @@ Ettercap is a comprehensive suite for man in the middle attacks. It features sni
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 
-### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,629 | 🐛 17 | 🌐 Go | 📅 2023-10-17
+### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,630 | 🐛 17 | 🌐 Go | 📅 2023-10-17
 
 HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,144 | 🐛 496 | 🌐 Python | 📅 2026-09-10
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,149 | 🐛 496 | 🌐 Python | 📅 2026-09-10
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -74,7 +74,7 @@ All in one MITM tool .
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 159 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 160 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -92,7 +92,7 @@ A python program to create a fake AP and sniff data
 
 An easy-to-deploy virtual machine that can provide flexible man-in-the-middle capabilities
 
-### [sshhipot](https://github.com/magisterquis/sshhipot) ⭐ 174 | 🐛 5 | 🌐 Go | 📅 2018-05-13
+### [sshhipot](https://github.com/magisterquis/sshhipot) ⭐ 175 | 🐛 5 | 🌐 Go | 📅 2018-05-13
 
 High-interaction MitM SSH honeypot
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
