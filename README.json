@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-27T08:18:00Z",
-            "open_issues": 493,
+            "open_issues": 496,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45170,
+            "stars": 45182,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:25:13.043Z",
+    "last_updated": "2026-09-29T00:36:02.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
