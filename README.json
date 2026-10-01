@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2491,
+            "stars": 2490,
             "topics": [
               "bettercap",
               "ettercap",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T08:18:00Z",
-            "open_issues": 497,
+            "last_commit": "2026-09-30T23:37:35Z",
+            "open_issues": 498,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45195,
+            "stars": 45208,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:19.775Z",
+    "last_updated": "2026-10-01T00:11:20.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
