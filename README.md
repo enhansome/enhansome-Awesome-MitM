@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,794 | 🐛 122 | 🌐 C | 📅 2026-09-20
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,794 | 🐛 123 | 🌐 C | 📅 2026-09-20
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,273 | 🐛 489 | 🌐 Python | 📅 2026-10-05
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,279 | 🐛 489 | 🌐 Python | 📅 2026-10-05
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
