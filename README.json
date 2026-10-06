@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2489,
+            "stars": 2490,
             "topics": [
               "bettercap",
               "ettercap",
@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1073,
+            "stars": 1074,
             "topics": []
           },
           "title": "dnschef",
@@ -123,7 +123,7 @@
             "open_issues": 122,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2793,
+            "stars": 2794,
             "topics": []
           },
           "title": "Ettercap",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T14:44:58Z",
-            "open_issues": 492,
+            "last_commit": "2026-10-05T22:18:35Z",
+            "open_issues": 489,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45258,
+            "stars": 45273,
             "topics": [
               "debugging",
               "http",
@@ -405,7 +405,7 @@
             "open_issues": 31,
             "owner": "internetarchive",
             "repo": "warcprox",
-            "stars": 467,
+            "stars": 468,
             "topics": []
           },
           "title": "warcprox",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 161,
+            "stars": 160,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:36:50.394Z",
+    "last_updated": "2026-10-06T01:30:56.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
