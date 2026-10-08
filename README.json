@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1074,
+            "stars": 1073,
             "topics": []
           },
           "title": "dnschef",
@@ -123,7 +123,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2795,
+            "stars": 2796,
             "topics": []
           },
           "title": "Ettercap",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:18:35Z",
-            "open_issues": 490,
+            "open_issues": 491,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45283,
+            "stars": 45304,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:10:38.282Z",
+    "last_updated": "2026-10-08T00:25:59.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
