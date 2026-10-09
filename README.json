@@ -165,7 +165,7 @@
             "open_issues": 17,
             "owner": "malfunkt",
             "repo": "hyperfox",
-            "stars": 1629,
+            "stars": 1628,
             "topics": []
           },
           "title": "hyperfox",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:18:35Z",
-            "open_issues": 491,
+            "open_issues": 490,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45304,
+            "stars": 45348,
             "topics": [
               "debugging",
               "http",
@@ -402,7 +402,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-17T03:25:51Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "internetarchive",
             "repo": "warcprox",
             "stars": 467,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:25:59.762Z",
+    "last_updated": "2026-10-09T00:41:26.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
