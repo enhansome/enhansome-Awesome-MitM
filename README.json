@@ -123,7 +123,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2796,
+            "stars": 2795,
             "topics": []
           },
           "title": "Ettercap",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T22:18:35Z",
-            "open_issues": 490,
+            "open_issues": 491,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45348,
+            "stars": 45383,
             "topics": [
               "debugging",
               "http",
@@ -266,7 +266,7 @@
             "open_issues": 92,
             "owner": "joeferner",
             "repo": "node-http-mitm-proxy",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "title": "node-http-mitm-proxy",
@@ -402,7 +402,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-17T03:25:51Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "internetarchive",
             "repo": "warcprox",
             "stars": 467,
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:41:26.888Z",
+    "last_updated": "2026-10-10T00:20:26.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",

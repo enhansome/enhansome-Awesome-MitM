@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,796 | 🐛 123 | 🌐 C | 📅 2026-09-20
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,795 | 🐛 123 | 🌐 C | 📅 2026-09-20
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,11 +38,11 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,348 | 🐛 490 | 🌐 Python | 📅 2026-10-05
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,383 | 🐛 491 | 🌐 Python | 📅 2026-10-05
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
-### [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) ⭐ 713 | 🐛 92 | 🌐 TypeScript | 📅 2024-07-13
+### [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) ⭐ 712 | 🐛 92 | 🌐 TypeScript | 📅 2024-07-13
 
 HTTP Man In The Middle (MITM) Proxy written in node.js
 
@@ -70,7 +70,7 @@ A tool for automated MITM attacks on SSL connections
 
 All in one MITM tool .
 
-### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 467 | 🐛 32 | 🌐 Python | 📅 2026-06-17
+### [warcprox](https://github.com/internetarchive/warcprox) ⭐ 467 | 🐛 31 | 🌐 Python | 📅 2026-06-17
 
 WARC writing MITM HTTP/S proxy
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
