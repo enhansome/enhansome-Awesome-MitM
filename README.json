@@ -50,7 +50,7 @@
             "open_issues": 1,
             "owner": "compewter",
             "repo": "CopyCat",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "man-in-the-middle",
               "mitm",
@@ -97,7 +97,7 @@
             "open_issues": 3,
             "owner": "SySS-Research",
             "repo": "dns-mitm",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "dns",
               "mitm",
@@ -123,7 +123,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2796,
+            "stars": 2798,
             "topics": []
           },
           "title": "Ettercap",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 584,
+            "stars": 585,
             "topics": []
           },
           "title": "FakeDns",
@@ -165,7 +165,7 @@
             "open_issues": 17,
             "owner": "malfunkt",
             "repo": "hyperfox",
-            "stars": 1628,
+            "stars": 1629,
             "topics": []
           },
           "title": "hyperfox",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3641,
+            "stars": 3642,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -233,7 +233,7 @@
             "open_issues": 492,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45421,
+            "stars": 45469,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1456,
+            "stars": 1457,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "title": "websploit",
@@ -480,7 +480,7 @@
             "open_issues": 15,
             "owner": "xdavidhu",
             "repo": "mitmAP",
-            "stars": 1691,
+            "stars": 1692,
             "topics": [
               "access-point",
               "fake-ap",
@@ -554,7 +554,7 @@
             "open_issues": 1,
             "owner": "CiscoCXSecurity",
             "repo": "suddensix",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "title": "suddensix",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:00:54.178Z",
+    "last_updated": "2026-10-13T02:15:29.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
@@ -577,7 +577,7 @@
       "open_issues": 0,
       "owner": "0xbadshah",
       "repo": "Awesome-MitM",
-      "stars": 257,
+      "stars": 258,
       "topics": [
         "awesome-list",
         "mitm",

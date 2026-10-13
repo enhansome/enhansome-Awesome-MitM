@@ -6,7 +6,7 @@ Curated list of MitM frameworks on GitHub
 
 A complete, modular, portable and easily extensible MITM framework
 
-### [CopyCat](https://github.com/compewter/CopyCat) ⭐ 105 | 🐛 1 | 🌐 JavaScript | 📅 2017-05-04
+### [CopyCat](https://github.com/compewter/CopyCat) ⭐ 106 | 🐛 1 | 🌐 JavaScript | 📅 2017-05-04
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
@@ -14,19 +14,19 @@ CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or 
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
-### [dnsmitm](https://github.com/SySS-Research/dns-mitm) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2023-04-24
+### [dnsmitm](https://github.com/SySS-Research/dns-mitm) ⭐ 102 | 🐛 3 | 🌐 Python | 📅 2023-04-24
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,796 | 🐛 123 | 🌐 C | 📅 2026-09-20
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,798 | 🐛 123 | 🌐 C | 📅 2026-09-20
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
-### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 584 | 🐛 13 | 🌐 Python | 📅 2021-08-27
+### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 585 | 🐛 13 | 🌐 Python | 📅 2021-08-27
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 
-### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,628 | 🐛 17 | 🌐 Go | 📅 2023-10-17
+### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,629 | 🐛 17 | 🌐 Go | 📅 2023-10-17
 
 HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,421 | 🐛 492 | 🌐 Python | 📅 2026-10-05
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,469 | 🐛 492 | 🌐 Python | 📅 2026-10-05
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -54,7 +54,7 @@ Test whether your Postgres connections are vulnerable to MitM attacks
 
 Probably one of the smallest SSL MITM proxies you can make
 
-### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,456 | 🐛 15 | 🌐 Python | 📅 2025-11-20
+### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,457 | 🐛 15 | 🌐 Python | 📅 2025-11-20
 
 Perform a MitM attack and extract clear text credentials from RDP connections
 
@@ -74,7 +74,7 @@ All in one MITM tool .
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 160 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 161 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -96,7 +96,7 @@ An easy-to-deploy virtual machine that can provide flexible man-in-the-middle ca
 
 High-interaction MitM SSH honeypot
 
-### [suddensix](https://github.com/Neohapsis/suddensix) ⭐ 93 | 🐛 1 | 🌐 Shell | 📅 2013-08-07
+### [suddensix](https://github.com/Neohapsis/suddensix) ⭐ 94 | 🐛 1 | 🌐 Shell | 📅 2013-08-07
 
 IPV6 MITM attack tool
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
