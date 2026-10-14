@@ -10,7 +10,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,073 | 🐛 31 | 🌐 Python | 📅 2024-08-16
+### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,075 | 🐛 31 | 🌐 Python | 📅 2024-08-16
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,532 | 🐛 492 | 🌐 Python | 📅 2026-10-13
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,605 | 🐛 495 | 🌐 Python | 📅 2026-10-13
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -54,7 +54,7 @@ Test whether your Postgres connections are vulnerable to MitM attacks
 
 Probably one of the smallest SSL MITM proxies you can make
 
-### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,457 | 🐛 15 | 🌐 Python | 📅 2025-11-20
+### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,458 | 🐛 15 | 🌐 Python | 📅 2025-11-20
 
 Perform a MitM attack and extract clear text credentials from RDP connections
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
