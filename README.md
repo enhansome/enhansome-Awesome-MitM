@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,792 | 🐛 502 | 🌐 Python | 📅 2026-10-20
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,819 | 🐛 501 | 🌐 Python | 📅 2026-10-21
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -54,7 +54,7 @@ Test whether your Postgres connections are vulnerable to MitM attacks
 
 Probably one of the smallest SSL MITM proxies you can make
 
-### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,458 | 🐛 15 | 🌐 Python | 📅 2025-11-20
+### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,457 | 🐛 15 | 🌐 Python | 📅 2025-11-20
 
 Perform a MitM attack and extract clear text credentials from RDP connections
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

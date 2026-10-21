@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:37:09Z",
-            "open_issues": 502,
+            "last_commit": "2026-10-21T23:36:45Z",
+            "open_issues": 501,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 45792,
+            "stars": 45819,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1458,
+            "stars": 1457,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:26:37.706Z",
+    "last_updated": "2026-10-21T23:41:57.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
