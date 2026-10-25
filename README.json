@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1075,
+            "stars": 1076,
             "topics": []
           },
           "title": "dnschef",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 585,
+            "stars": 586,
             "topics": []
           },
           "title": "FakeDns",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T06:45:35Z",
-            "open_issues": 510,
+            "last_commit": "2026-10-25T21:40:19Z",
+            "open_issues": 519,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46299,
+            "stars": 46337,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:44:40.657Z",
+    "last_updated": "2026-10-25T22:49:28.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
