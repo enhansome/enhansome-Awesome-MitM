@@ -165,7 +165,7 @@
             "open_issues": 17,
             "owner": "malfunkt",
             "repo": "hyperfox",
-            "stars": 1629,
+            "stars": 1628,
             "topics": []
           },
           "title": "hyperfox",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T15:26:41Z",
-            "open_issues": 517,
+            "open_issues": 520,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46428,
+            "stars": 46462,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 162,
+            "stars": 161,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:03:31.765Z",
+    "last_updated": "2026-10-29T00:26:58.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
