@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2489,
+            "stars": 2488,
             "topics": [
               "bettercap",
               "ettercap",
@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1077,
+            "stars": 1078,
             "topics": []
           },
           "title": "dnschef",
@@ -123,7 +123,7 @@
             "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2809,
+            "stars": 2808,
             "topics": []
           },
           "title": "Ettercap",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3640,
+            "stars": 3639,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:26:41Z",
-            "open_issues": 522,
+            "last_commit": "2026-10-30T08:42:00Z",
+            "open_issues": 521,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46476,
+            "stars": 46504,
             "topics": [
               "debugging",
               "http",
@@ -356,7 +356,7 @@
             "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1740,
+            "stars": 1741,
             "topics": [
               "hacking",
               "man-in-the-middle",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:27:08.923Z",
+    "last_updated": "2026-10-31T00:08:33.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
