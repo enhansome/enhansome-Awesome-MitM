@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2488,
+            "stars": 2487,
             "topics": [
               "bettercap",
               "ettercap",
@@ -123,7 +123,7 @@
             "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2807,
+            "stars": 2808,
             "topics": []
           },
           "title": "Ettercap",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T08:42:00Z",
-            "open_issues": 522,
+            "last_commit": "2026-11-01T22:07:37Z",
+            "open_issues": 532,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46525,
+            "stars": 46542,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:47:22.112Z",
+    "last_updated": "2026-11-01T23:55:17.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
