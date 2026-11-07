@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2487,
+            "stars": 2486,
             "topics": [
               "bettercap",
               "ettercap",
@@ -119,8 +119,8 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-26T18:57:23Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-06T02:58:06Z",
+            "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2808,
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3639,
+            "stars": 3638,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -233,7 +233,7 @@
             "open_issues": 538,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46680,
+            "stars": 46683,
             "topics": [
               "debugging",
               "http",
@@ -356,7 +356,7 @@
             "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1740,
+            "stars": 1739,
             "topics": [
               "hacking",
               "man-in-the-middle",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:08:37.131Z",
+    "last_updated": "2026-11-07T00:23:34.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
