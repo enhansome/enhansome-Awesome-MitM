@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1078,
+            "stars": 1079,
             "topics": []
           },
           "title": "dnschef",
@@ -123,7 +123,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2807,
+            "stars": 2806,
             "topics": []
           },
           "title": "Ettercap",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 586,
+            "stars": 587,
             "topics": []
           },
           "title": "FakeDns",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3638,
+            "stars": 3639,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T23:01:46Z",
-            "open_issues": 545,
+            "open_issues": 548,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46709,
+            "stars": 46737,
             "topics": [
               "debugging",
               "http",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:00:09.185Z",
+    "last_updated": "2026-11-09T00:05:17.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
