@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:01:46Z",
-            "open_issues": 548,
+            "last_commit": "2026-11-09T18:03:00Z",
+            "open_issues": 550,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46737,
+            "stars": 46771,
             "topics": [
               "debugging",
               "http",
@@ -356,7 +356,7 @@
             "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1738,
+            "stars": 1739,
             "topics": [
               "hacking",
               "man-in-the-middle",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:05:17.496Z",
+    "last_updated": "2026-11-10T02:57:09.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
