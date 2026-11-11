@@ -119,11 +119,11 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T02:58:06Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-10T18:44:30Z",
+            "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2806,
+            "stars": 2807,
             "topics": []
           },
           "title": "Ettercap",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 587,
+            "stars": 588,
             "topics": []
           },
           "title": "FakeDns",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T18:03:00Z",
-            "open_issues": 550,
+            "last_commit": "2026-11-10T19:32:13Z",
+            "open_issues": 549,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 46771,
+            "stars": 46810,
             "topics": [
               "debugging",
               "http",
@@ -266,7 +266,7 @@
             "open_issues": 92,
             "owner": "joeferner",
             "repo": "node-http-mitm-proxy",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "title": "node-http-mitm-proxy",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:57:09.942Z",
+    "last_updated": "2026-11-11T00:55:04.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
