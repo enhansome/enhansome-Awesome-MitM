@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,809 | 🐛 114 | 🌐 C | 📅 2026-11-13
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,810 | 🐛 114 | 🌐 C | 📅 2026-11-14
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,896 | 🐛 550 | 🌐 Python | 📅 2026-11-13
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,958 | 🐛 554 | 🌐 Python | 📅 2026-11-14
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -54,7 +54,7 @@ Test whether your Postgres connections are vulnerable to MitM attacks
 
 Probably one of the smallest SSL MITM proxies you can make
 
-### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,456 | 🐛 15 | 🌐 Python | 📅 2025-11-20
+### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,457 | 🐛 15 | 🌐 Python | 📅 2025-11-20
 
 Perform a MitM attack and extract clear text credentials from RDP connections
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
