@@ -10,7 +10,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,080 | 🐛 31 | 🌐 Python | 📅 2024-08-16
+### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,081 | 🐛 31 | 🌐 Python | 📅 2024-08-16
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
@@ -18,7 +18,7 @@ DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
 A minimal DNS service that can provide spoofed replies
 
-### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,810 | 🐛 114 | 🌐 C | 📅 2026-11-14
+### [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,810 | 🐛 114 | 🌐 C | 📅 2026-11-15
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,958 | 🐛 554 | 🌐 Python | 📅 2026-11-14
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,997 | 🐛 553 | 🌐 Python | 📅 2026-11-14
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -62,7 +62,7 @@ Perform a MitM attack and extract clear text credentials from RDP connections
 
 SSH man-in-the-middle tool
 
-### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 574 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
+### [sslsniff](https://github.com/moxie0/sslsniff) ⭐ 575 | 🐛 28 | 🌐 C++ | 📅 2017-12-17
 
 A tool for automated MITM attacks on SSL connections
 
@@ -74,7 +74,7 @@ All in one MITM tool .
 
 WARC writing MITM HTTP/S proxy
 
-### [websploit](https://github.com/websploit/websploit) ⭐ 162 | 🐛 2 | 📅 2022-04-22
+### [websploit](https://github.com/websploit/websploit) ⭐ 163 | 🐛 2 | 📅 2022-04-22
 
 An advanced MITM framework
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
