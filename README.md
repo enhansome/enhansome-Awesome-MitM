@@ -26,7 +26,7 @@ Ettercap is a comprehensive suite for man in the middle attacks. It features sni
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 
-### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,626 | 🐛 17 | 🌐 Go | 📅 2023-10-17
+### [hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,625 | 🐛 17 | 🌐 Go | 📅 2023-10-17
 
 HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,997 | 🐛 553 | 🌐 Python | 📅 2026-11-14
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 47,032 | 🐛 556 | 🌐 Python | 📅 2026-11-14
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
