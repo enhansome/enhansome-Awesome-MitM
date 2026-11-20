@@ -10,7 +10,7 @@ A complete, modular, portable and easily extensible MITM framework
 
 CopyCat is a Node.js based universal MITM web server. Used with DNS spoofing or another redirect attack, this server will act as a MITM for web traffic between the victim and a real server.
 
-### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,082 | 🐛 31 | 🌐 Python | 📅 2024-08-16
+### [dnschef](https://github.com/iphelix/dnschef) ⭐ 1,081 | 🐛 31 | 🌐 Python | 📅 2024-08-16
 
 DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 
@@ -22,7 +22,7 @@ A minimal DNS service that can provide spoofed replies
 
 Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks.
 
-### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 587 | 🐛 13 | 🌐 Python | 📅 2021-08-27
+### [FakeDns](https://github.com/Crypt0s/FakeDns) ⭐ 586 | 🐛 13 | 🌐 Python | 📅 2021-08-27
 
 A regular-expression based python MITM DNS server with support for DNS Rebinding attacks
 
@@ -38,7 +38,7 @@ An extensible TCP/UDP man in the middle proxy that is designed to be run as a ga
 
 Framework for Man-In-The-Middle attacks
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 47,075 | 🐛 554 | 🌐 Python | 📅 2026-11-14
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 47,096 | 🐛 560 | 🌐 Python | 📅 2026-11-19
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 
@@ -54,7 +54,7 @@ Test whether your Postgres connections are vulnerable to MitM attacks
 
 Probably one of the smallest SSL MITM proxies you can make
 
-### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,457 | 🐛 15 | 🌐 Python | 📅 2025-11-20
+### [Seth](https://github.com/SySS-Research/Seth) ⭐ 1,456 | 🐛 15 | 🌐 Python | 📅 2025-11-20
 
 Perform a MitM attack and extract clear text credentials from RDP connections
 
@@ -106,4 +106,4 @@ Please have a look at [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

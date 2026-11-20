@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2486,
+            "stars": 2485,
             "topics": [
               "bettercap",
               "ettercap",
@@ -76,7 +76,7 @@
             "open_issues": 31,
             "owner": "iphelix",
             "repo": "dnschef",
-            "stars": 1082,
+            "stars": 1081,
             "topics": []
           },
           "title": "dnschef",
@@ -144,7 +144,7 @@
             "open_issues": 13,
             "owner": "Crypt0s",
             "repo": "FakeDns",
-            "stars": 587,
+            "stars": 586,
             "topics": []
           },
           "title": "FakeDns",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3642,
+            "stars": 3641,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -229,11 +229,11 @@
             "id": 519832,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T23:27:21Z",
-            "open_issues": 554,
+            "last_commit": "2026-11-19T11:59:34Z",
+            "open_issues": 560,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 47075,
+            "stars": 47096,
             "topics": [
               "debugging",
               "http",
@@ -329,7 +329,7 @@
             "open_issues": 15,
             "owner": "SySS-Research",
             "repo": "Seth",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "arp-spoofing",
               "mitm",
@@ -356,7 +356,7 @@
             "open_issues": 14,
             "owner": "jtesta",
             "repo": "ssh-mitm",
-            "stars": 1740,
+            "stars": 1739,
             "topics": [
               "hacking",
               "man-in-the-middle",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:01:33.326Z",
+    "last_updated": "2026-11-20T01:54:28.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
