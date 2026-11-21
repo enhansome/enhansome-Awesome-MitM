@@ -18,7 +18,7 @@
             "open_issues": 53,
             "owner": "evilsocket",
             "repo": "bettercap",
-            "stars": 2485,
+            "stars": 2484,
             "topics": [
               "bettercap",
               "ettercap",
@@ -207,7 +207,7 @@
             "open_issues": 136,
             "owner": "byt3bl33d3r",
             "repo": "MITMf",
-            "stars": 3641,
+            "stars": 3640,
             "topics": [
               "framework",
               "man-in-the-middle",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T11:59:34Z",
-            "open_issues": 560,
+            "open_issues": 563,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 47096,
+            "stars": 47114,
             "topics": [
               "debugging",
               "http",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 163,
+            "stars": 162,
             "topics": []
           },
           "title": "websploit",
@@ -480,7 +480,7 @@
             "open_issues": 15,
             "owner": "xdavidhu",
             "repo": "mitmAP",
-            "stars": 1694,
+            "stars": 1695,
             "topics": [
               "access-point",
               "fake-ap",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:54:28.514Z",
+    "last_updated": "2026-11-21T01:47:41.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
