@@ -123,7 +123,7 @@
             "open_issues": 113,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2812,
+            "stars": 2813,
             "topics": []
           },
           "title": "Ettercap",
@@ -230,10 +230,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T11:59:34Z",
-            "open_issues": 563,
+            "open_issues": 565,
             "owner": "mitmproxy",
             "repo": "mitmproxy",
-            "stars": 47114,
+            "stars": 47124,
             "topics": [
               "debugging",
               "http",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "websploit",
             "repo": "websploit",
-            "stars": 162,
+            "stars": 161,
             "topics": []
           },
           "title": "websploit",
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:47:41.181Z",
+    "last_updated": "2026-11-22T00:42:04.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of MitM frameworks on GitHub",
